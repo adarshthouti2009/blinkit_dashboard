@@ -1,5 +1,9 @@
 # Blinkit Analytics Dashboard
 
+## Project Overview
+
+The Blinkit Sales Analytics Dashboard is designed to provide a detailed analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. By leveraging Power BI, this dashboard enables data-driven decision-making through various KPIs and interactive visualizations. The project aims to identify key trends, optimize inventory management, and enhance customer satisfaction by analyzing sales data from multiple perspectives, including product categories, outlet types, and geographical locations.
+
 ## 1. Requirement Gathering / Business Requirement
 
 The goal of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The insights derived from the dashboard will help in optimizing business strategies using various KPIs and visualizations in Power BI.
