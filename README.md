@@ -1,4 +1,4 @@
-# Blinkit Sales Analytics Dashboard: A Comprehensive Power BI Implementation Plan
+# Blinkit Analytics Dashboard
 
 ## 1. Requirement Gathering / Business Requirement
 
